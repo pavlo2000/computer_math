@@ -59,8 +59,8 @@ print("Part 10")
 n = input("Number ")
 print(int(n) + int(n*2) + int(n*3))
 
-print("Part 11")
-print(help(abs))
+# print("Part 11")
+# print(help(abs))
 
 print("Part 12")
 yy = int(input("Enter year: "))  
